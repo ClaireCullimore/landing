@@ -1,0 +1,42 @@
+.btn {
+  padding: 15px 15px;
+  border: 1px solid #FFEBCD;
+  background-color: #FFEBCD;
+  border-radius: 30px;
+  font-weight: bold;
+  font-size: 20px;
+  color: #269900;
+  font-family: 'Indie Flower', cursive;
+  opacity: 0.9;
+  text-shadow: none;
+}
+
+.btn:hover {
+  background-color:#269900;
+  border: 1px solid #269900;
+  color: #269900;
+  transition: 1s;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+    font-size: 30px;
+
+}
+
+.list-inline i {
+  color: #269900;
+
+}
+.list-inline i:hover {
+   color: #FFEBCD;
+   transition: 1s;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+  text-align: center;
+  font: 50px;
+  }

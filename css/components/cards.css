@@ -1,0 +1,49 @@
+.container {
+  background-color: #F5F5DC;
+  margin: 0px;
+  }
+
+#card-title {
+  text-align: center;
+  margin: 0px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-family: 'Indie Flower', cursive;
+  color: #269900;
+  font-size: 50px;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.card h4 {
+  color: #269900;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.card h4:hover {
+  color: #F5F5DC;
+  transition: 1s;
+
+}
+.cards img {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+  object-position: cover;
+  border-radius: 5px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+}
+
+.footer p {
+  text-align: center;
+  padding-bottom: 30px;
+  background-color: #F5F5DC;
+  color: #269900;
+}

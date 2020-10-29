@@ -1,0 +1,20 @@
+.container {
+  height: 500px;
+
+}
+.banner {
+  padding: 200px 0px;
+  text-align: center;
+  background: #1abc9c;
+  color: #F5F5DC;
+  font-size: 30px;
+  background-size: cover;
+  margin-bottom: 0;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8);
+}
+
+
+.banner p {
+  margin-top: 50px;
+  margin-bottom: 70px;
+}
